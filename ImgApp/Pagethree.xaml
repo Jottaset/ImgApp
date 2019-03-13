@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="ImgApp.Pagethree">
+    
+    
+    <StackLayout BackgroundColor="Purple">
+        
+        <!-- Place new controls here -->
+        
+        <Label Text="Pagina 03"
+               FontSize="60"
+               TextColor="Blue"
+               FontFamily="Pacifico-Regular.ttf#"
+               HorizontalOptions="Center" 
+               VerticalOptions="StartAndExpand" />
+        
+        <Image Source="okicon.png"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"/>
+        
+    </StackLayout>
+    
+    
+ </ContentPage>
